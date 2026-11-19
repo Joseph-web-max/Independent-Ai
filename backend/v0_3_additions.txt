@@ -1,0 +1,287 @@
+INDEPENDENT AI LAB — V0.3 CURATED TRAINING CORPUS
+
+Educational explanations for experimental language-model training. The content is original project text and is not professional, legal, medical, or financial advice. Verify time-sensitive and high-impact claims independently.
+
+<|document|>
+USER: What is an opportunity cost?
+ASSISTANT: Opportunity cost is the value of the best alternative given up when a choice is made. It reminds us that using time, money, or other scarce resources for one purpose means they cannot be used for the next-best alternative.
+
+<|document|>
+USER: Explain the difference between nominal GDP and real GDP.
+ASSISTANT: Nominal GDP measures the value of final goods and services using current prices. Real GDP adjusts for price changes using constant prices, so it is more useful for comparing the volume of production across time.
+
+<|document|>
+USER: What is inflation?
+ASSISTANT: Inflation is a sustained increase in the general price level of goods and services. It reduces the purchasing power of money. A single price increase is not necessarily inflation; the overall price level and the period being measured matter.
+
+<|document|>
+USER: What is the difference between fiscal policy and monetary policy?
+ASSISTANT: Fiscal policy uses government spending and taxation to influence economic activity. Monetary policy is conducted by a central bank and uses tools such as policy interest rates and liquidity operations to influence credit conditions, inflation, and demand.
+
+<|document|>
+USER: What is the reserve requirement in banking?
+ASSISTANT: A reserve requirement is a rule requiring a bank to hold a specified share of certain deposits as reserves. The exact definition, rate, and implementation depend on the jurisdiction and current central-bank rules.
+
+<|document|>
+USER: What is a budget deficit?
+ASSISTANT: A budget deficit occurs when government expenditure exceeds government revenue over a specified period. It is commonly financed through borrowing, use of cash balances, or other financing arrangements.
+
+<|document|>
+USER: Explain the difference between a progressive and regressive tax.
+ASSISTANT: A progressive tax takes a larger proportion of income as income rises. A regressive tax takes a larger proportion of income from lower-income households than from higher-income households, even if everyone pays the same nominal rate.
+
+<|document|>
+USER: What is the multiplier effect in economics?
+ASSISTANT: The multiplier effect describes how an initial change in spending can lead to a larger total change in income or output as recipients spend part of the additional income. Its size depends on leakages such as saving, taxes, and imports.
+
+<|document|>
+USER: What is price elasticity of demand?
+ASSISTANT: Price elasticity of demand measures the percentage change in quantity demanded divided by the percentage change in price. Its absolute value indicates how responsive buyers are to a price change, holding other relevant factors constant.
+
+<|document|>
+USER: What is market failure?
+ASSISTANT: Market failure occurs when unregulated market outcomes do not allocate resources efficiently, for example because of externalities, public goods, information asymmetry, or market power. Policy intervention should be assessed against its own costs and possible failures.
+
+<|document|>
+USER: What is a public good?
+ASSISTANT: A pure public good is non-rival and non-excludable. One person's use does not reduce another person's ability to use it, and it is difficult to prevent people from benefiting even if they do not pay. National defence is a common example.
+
+<|document|>
+USER: What is the difference between a current account and capital account?
+ASSISTANT: In the balance of payments, the current account records trade in goods and services, primary income, and secondary income. The capital account records capital transfers and transactions in non-produced, non-financial assets. Financial-account flows are recorded separately.
+
+<|document|>
+USER: How do I calculate simple interest?
+ASSISTANT: Simple interest is calculated as I = P × r × t, where P is principal, r is the annual interest rate expressed as a decimal, and t is time in years. For example, 10,000 at 5 percent for 2 years earns 10,000 × 0.05 × 2 = 1,000 in simple interest.
+
+<|document|>
+USER: What is compound interest?
+ASSISTANT: Compound interest is interest calculated on the original principal plus previously accumulated interest. With annual compounding, the future value is FV = P(1 + r)^n, where P is principal, r is the annual rate, and n is the number of years.
+
+<|document|>
+USER: What is the difference between a stock and a flow variable?
+ASSISTANT: A stock is measured at a point in time, such as wealth or public debt at the end of a date. A flow is measured over a period, such as income earned, investment made, or a budget deficit during a year.
+
+<|document|>
+USER: What does ceteris paribus mean?
+ASSISTANT: Ceteris paribus means other things being equal. Economists use it to describe the effect of changing one factor while holding other relevant factors constant in a model or argument.
+
+<|document|>
+USER: Explain supply and demand in simple terms.
+ASSISTANT: Demand describes how much buyers are willing and able to purchase at different prices. Supply describes how much sellers are willing and able to offer. Their interaction helps determine the market price and quantity, subject to other conditions.
+
+<|document|>
+USER: What is the difference between a correlation and a regression coefficient?
+ASSISTANT: Correlation is a standardized measure of the direction and strength of a linear association between two variables. A regression coefficient describes the estimated change in the dependent variable associated with a one-unit change in a predictor, conditional on the model's other variables.
+
+<|document|>
+USER: How do I interpret a 95 percent confidence interval?
+ASSISTANT: A 95 percent confidence interval is produced by a method that, under its assumptions, would contain the fixed population parameter in about 95 percent of repeated samples. It describes uncertainty; it does not mean that 95 percent of the observed data lie inside the interval.
+
+<|document|>
+USER: What is multicollinearity?
+ASSISTANT: Multicollinearity occurs when explanatory variables in a regression are strongly linearly related. It can make individual coefficient estimates imprecise and unstable, although it does not automatically bias ordinary least squares estimates when the other assumptions hold.
+
+<|document|>
+USER: What is omitted variable bias?
+ASSISTANT: Omitted variable bias occurs when a relevant factor is left out of a regression and is correlated with both an included predictor and the outcome. The included predictor may then partly capture the omitted factor's effect.
+
+<|document|>
+USER: What is a null hypothesis?
+ASSISTANT: A null hypothesis is a default statistical claim, often that an effect or difference is zero. A test evaluates how compatible the observed data are with the null model and its assumptions; it does not prove the null hypothesis true or false.
+
+<|document|>
+USER: What is a type I error?
+ASSISTANT: A type I error occurs when a statistical test rejects a true null hypothesis. Its probability is controlled by the chosen significance level under the test's assumptions.
+
+<|document|>
+USER: What is a type II error?
+ASSISTANT: A type II error occurs when a statistical test fails to reject a false null hypothesis. The probability of this error depends on factors including sample size, effect size, variability, and the significance threshold.
+
+<|document|>
+USER: What is the difference between a population and a sample?
+ASSISTANT: A population is the full group a study aims to understand. A sample is the subset actually observed. Reliable inference depends on how the sample was selected, how variables were measured, and whether the sample matches the target population.
+
+<|document|>
+USER: How do I calculate the arithmetic mean?
+ASSISTANT: Add all observations and divide by the number of observations. For values 2, 4, and 9, the mean is (2 + 4 + 9) / 3 = 5.
+
+<|document|>
+USER: What is a median and when is it useful?
+ASSISTANT: The median is the middle observation after values are ordered. It is useful for skewed distributions or data with extreme values because it is less affected by outliers than the arithmetic mean.
+
+<|document|>
+USER: What is standard error?
+ASSISTANT: A standard error estimates the sampling variability of a statistic across repeated samples. It is not the same as the standard deviation of individual observations. The standard error often decreases as sample size increases, under suitable conditions.
+
+<|document|>
+USER: What is overfitting in machine learning?
+ASSISTANT: Overfitting happens when a model learns patterns specific to its training examples, including noise, and performs poorly on new data. Separate validation data, regularization, simpler models, and more representative training examples can help reduce it.
+
+<|document|>
+USER: What is a training set and a test set?
+ASSISTANT: A training set is used to fit model parameters. A test set is held aside until model selection is complete and is used to estimate performance on unseen data. Repeatedly tuning against the test set leaks information and weakens the evaluation.
+
+<|document|>
+USER: What is data leakage?
+ASSISTANT: Data leakage occurs when information unavailable at prediction time enters model training or evaluation. It can make results appear much better than real-world performance. Splits should respect entities, time, and the intended deployment setting.
+
+<|document|>
+USER: What is a neural network?
+ASSISTANT: A neural network is a parameterized function made from connected computational units. During training, an optimization algorithm adjusts its parameters to reduce a defined loss on examples. Good performance on training data alone does not establish generalization.
+
+<|document|>
+USER: What is a Transformer model?
+ASSISTANT: A Transformer is a neural-network architecture that uses attention to combine information across a sequence. It commonly includes attention layers, feed-forward networks, normalization, and residual connections. Its usefulness depends on data, objectives, compute, and evaluation.
+
+<|document|>
+USER: What does backpropagation do?
+ASSISTANT: Backpropagation computes gradients of a loss with respect to model parameters using the chain rule. An optimizer uses those gradients to update parameters in a direction intended to reduce the loss.
+
+<|document|>
+USER: What is gradient descent?
+ASSISTANT: Gradient descent is an optimization method that updates parameters in the direction opposite the gradient of a loss function. The learning rate controls the update size. A rate that is too high can destabilize training; one that is too low can make learning slow.
+
+<|document|>
+USER: Why do language models hallucinate?
+ASSISTANT: A language model can produce unsupported statements because next-token prediction does not guarantee that generated text is grounded in verified facts. Retrieval, tools, calibrated uncertainty, source checks, and targeted evaluation can reduce some errors but cannot eliminate them.
+
+<|document|>
+USER: What is a token in a language model?
+ASSISTANT: A token is a unit processed by a language model. Depending on the tokenizer, it may represent a character, byte, word fragment, or word. Tokenization affects context length, training efficiency, and how text is represented.
+
+<|document|>
+USER: What is the difference between pretraining and fine-tuning?
+ASSISTANT: Pretraining teaches a model broad statistical patterns from a large corpus using a general objective. Fine-tuning continues training on a more targeted dataset or objective, such as following instructions. Fine-tuning cannot automatically add reliable knowledge that was not learned or supplied.
+
+<|document|>
+USER: What makes a benchmark trustworthy?
+ASSISTANT: A useful benchmark has clear tasks, reproducible scoring, representative examples, leakage controls, and a documented relationship to the intended use. Results should include limitations and should not be treated as a complete measure of intelligence.
+
+<|document|>
+USER: What is an algorithm?
+ASSISTANT: An algorithm is a finite, well-defined sequence of steps for solving a problem or carrying out a computation. A good algorithm has specified inputs, outputs, assumptions, and resource requirements.
+
+<|document|>
+USER: Explain a Python function.
+ASSISTANT: A Python function is a reusable block of code defined with the def keyword. It can accept parameters, perform operations, and return a result. Functions help organize code, reduce repetition, and make testing easier.
+
+<|document|>
+USER: What is a Python list?
+ASSISTANT: A Python list is an ordered, mutable collection. It can hold multiple values, including values of different types. Items are accessed by index, with the first item at index zero.
+
+<|document|>
+USER: What is an application programming interface?
+ASSISTANT: An application programming interface, or API, defines how software components communicate. It specifies available operations, inputs, outputs, and expected behavior. An API can be local or network-based; using an API does not mean a system owns the service it calls.
+
+<|document|>
+USER: What is a database transaction?
+ASSISTANT: A database transaction is a group of operations treated as a unit. ACID properties describe atomicity, consistency, isolation, and durability, which help make updates reliable in supported database systems.
+
+<|document|>
+USER: What is encryption?
+ASSISTANT: Encryption transforms readable data into ciphertext using an algorithm and a key. Properly designed encryption helps protect confidentiality. Security also depends on key management, implementation, authentication, and the threat model.
+
+<|document|>
+USER: What is the difference between authentication and authorization?
+ASSISTANT: Authentication checks who or what is making a request. Authorization determines what that authenticated identity is permitted to do. A secure system needs both, along with careful session and access-control management.
+
+<|document|>
+USER: What is version control?
+ASSISTANT: Version control records changes to files over time and helps people collaborate, compare revisions, and restore earlier states. Git is a widely used distributed version-control system.
+
+<|document|>
+USER: How should I debug a Python error?
+ASSISTANT: Read the traceback from the bottom to identify the exception and failing line. Reproduce the issue with a small example, inspect variable types and values, check assumptions, and change one thing at a time. Add a regression test after fixing the cause.
+
+<|document|>
+USER: What is a scientific source citation?
+ASSISTANT: A citation identifies the source supporting a claim so readers can locate and assess it. Good practice records the author or organization, title, publication date, and stable location, and distinguishes the source's findings from your own interpretation.
+
+<|document|>
+USER: What is the difference between privacy and security?
+ASSISTANT: Privacy concerns appropriate collection, use, sharing, and retention of personal information. Security concerns protection against unauthorized access, alteration, loss, or disruption. Security supports privacy but does not by itself guarantee appropriate data use.
+
+<|document|>
+USER: What is an externality?
+ASSISTANT: An externality is a cost or benefit of an activity experienced by people who are not fully represented in the transaction's price. Pollution is a negative externality; vaccination can create positive spillover benefits.
+
+<|document|>
+USER: What is the public debt?
+ASSISTANT: Public debt is the stock of outstanding government liabilities at a specified date. It differs from the budget deficit, which is a flow measured over a period. Debt sustainability depends on interest costs, growth, primary balances, currency exposure, and institutional conditions.
+
+<|document|>
+USER: Why can a currency depreciate?
+ASSISTANT: A currency may depreciate because of changes in supply and demand, inflation expectations, interest-rate differentials, trade and capital flows, risk perceptions, or policy changes. The cause should be assessed using current country-specific evidence rather than assumed from one factor.
+
+<|document|>
+USER: What is financial inclusion?
+ASSISTANT: Financial inclusion means that people and businesses can access and use suitable, affordable financial services, such as payments, savings, credit, and insurance. Access alone is not enough; services should be safe, useful, transparent, and appropriate.
+
+<|document|>
+USER: What is a central bank?
+ASSISTANT: A central bank is a public institution responsible for monetary and related financial-system functions defined by law. Responsibilities often include monetary policy, currency issuance, payment-system oversight, and supporting financial stability, but mandates vary by country.
+
+<|document|>
+USER: What is opportunity cost in a student's daily life?
+ASSISTANT: If a student spends two hours watching a film instead of studying, the opportunity cost is the value of the best alternative use of those two hours, such as revision or rest. It is not necessarily the total of every alternative forgone.
+
+<|document|>
+USER: How should I structure an analytical essay?
+ASSISTANT: State a clear thesis, define important concepts, organize the argument into logical sections, support claims with credible evidence, consider counterarguments, and conclude by answering the question. Cite sources and distinguish evidence from opinion.
+
+<|document|>
+USER: How can I check a mathematical answer?
+ASSISTANT: Recalculate using a different method, substitute the result back into the original equation, check units and signs, and estimate whether the magnitude is reasonable. For numerical work, test boundary cases and document rounding.
+
+<|document|>
+USER: What should an AI system do when it is uncertain?
+ASSISTANT: It should state what is known, identify the uncertainty, avoid inventing sources or details, and explain what evidence would resolve the question. For high-impact decisions, it should encourage verification by an appropriate qualified person.
+
+<|document|>
+USER: What is responsible AI evaluation?
+ASSISTANT: Responsible AI evaluation tests performance across relevant user groups and scenarios, including accuracy, robustness, privacy, security, bias, safety, and misuse. It documents failures and limitations and repeats testing after material changes.
+
+<|document|>
+USER: What is a reproducible machine-learning experiment?
+ASSISTANT: A reproducible experiment records code version, data provenance and split, model configuration, random seeds, software versions, hardware, optimizer settings, training steps, and evaluation procedure. Exact bitwise reproduction may still vary across hardware and kernels.
+
+<|document|>
+USER: Why should an AI training dataset be documented?
+ASSISTANT: Dataset documentation records provenance, rights, consent basis where applicable, collection dates, languages, filtering, known gaps, sensitive content, and intended uses. It helps researchers assess legality, quality, representativeness, and risk.
+
+<|document|>
+USER: What is the difference between open-source code and open model weights?
+ASSISTANT: Open-source code makes implementation source available under a licence. Open model weights make learned parameters available under specified terms. One does not automatically imply the other, and data, documentation, and usage conditions may differ.
+
+<|document|>
+USER: How do I make a project more reliable?
+ASSISTANT: Define expected behavior, add automated tests, handle errors explicitly, validate user input, log important events without exposing secrets, back up data, and test realistic failure cases. Reliability should be measured, not assumed.
+
+<|document|>
+USER: What is a good first step when starting a research project?
+ASSISTANT: Turn a broad interest into a precise, answerable question. Review existing evidence, define the population or system, identify available data, specify a method, assess ethics and feasibility, and decide in advance how results will be evaluated.
+
+<|document|>
+USER: Explain the difference between efficiency and effectiveness.
+ASSISTANT: Effectiveness is the extent to which an action achieves its intended outcome. Efficiency concerns the resources used to achieve that outcome. A process can be efficient but ineffective if it uses little time or money to achieve the wrong result.
+
+<|document|>
+USER: What is a hypothesis test's significance level?
+ASSISTANT: The significance level, often denoted alpha, is the long-run probability threshold for rejecting a true null hypothesis under the test's assumptions. It is chosen before examining the results and does not measure effect size or practical importance.
+
+<|document|>
+USER: What is an interest rate?
+ASSISTANT: An interest rate is the price of borrowing money or the return paid for lending or saving it, expressed over a specified period. The effective cost or return also depends on compounding, fees, inflation, risk, and contract terms.
+
+<|document|>
+USER: What is a balance sheet?
+ASSISTANT: A balance sheet reports an entity's assets, liabilities, and equity at a particular date. The accounting equation is Assets = Liabilities + Equity. It is a snapshot, not a statement of cash flows over a period.
+
+<|document|>
+USER: What is the difference between revenue and profit?
+ASSISTANT: Revenue is income from ordinary business activities before deducting expenses. Profit is what remains after specified expenses are deducted. Gross profit, operating profit, and net profit measure different stages of the income statement.
+
+<|document|>
+USER: What is cash flow?
+ASSISTANT: Cash flow records cash and cash-equivalent receipts and payments over a period. It is commonly grouped into operating, investing, and financing activities. Profit and cash flow differ because accounting includes non-cash items and timing differences.

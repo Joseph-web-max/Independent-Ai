@@ -1,1 +1,1 @@
-"""Project-owned tokenizer implementation."""
+"""Independent AI Lab model components."""
